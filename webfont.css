@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "SFUI";
+  src: url("../fonts/sf-ui-display-heavy.otf") format("opentype");
+  font-weight: 900;
+}
+  @font-face {
+    font-family: "SFUI";
+    src: url("../fonts/sf-ui-display-semibold.otf") format("opentype");
+    font-weight: 700;
+  }
+  @font-face {
+    font-family: "SFUI";
+    src: url("../fonts/sf-ui-display-light.otf") format("opentype");
+    font-weight: normal;
+  }
+
+  @font-face {
+    font-family: "SFUI";
+    src: url("../fonts/sf-ui-display-bold.otf") format("opentype");
+    font-weight: bold;
+  }
